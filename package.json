@@ -1,0 +1,11 @@
+{
+  "name": "turso-api",
+  "version": "1.0.0",
+  "main": "api/write.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.15.6"
+  }
+}
